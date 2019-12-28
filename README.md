@@ -1,4 +1,4 @@
-# processing_pictures
+# processing_img
 This programming is used for cohn_kanada dataset.
 
 Processing pic datas by grayscale, extraction face area and roation.
